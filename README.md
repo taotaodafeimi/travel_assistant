@@ -1,1 +1,1 @@
-# travel_assistant
+# Travel Assistant Project
